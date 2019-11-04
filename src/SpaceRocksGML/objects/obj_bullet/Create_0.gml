@@ -1,0 +1,1 @@
+mov_bullet_speed = 6;
