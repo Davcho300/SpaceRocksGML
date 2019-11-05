@@ -1,4 +1,4 @@
-instance_destroy()
+instance_destroy();
 
 with(other)
 {
@@ -6,4 +6,4 @@ with(other)
 		{
 			instance_create_layer(x,y,"Instances",obj_debris);
 		}
-}
+}                       

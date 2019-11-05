@@ -1,2 +1,2 @@
-debris_angles = floor(random_range(0,359))
-mov_vel = 6;
+direction = irandom_range(0,359);
+speed = 6;

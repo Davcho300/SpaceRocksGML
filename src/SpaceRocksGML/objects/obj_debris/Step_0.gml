@@ -1,7 +1,5 @@
-direction = debris_angles;
-speed = mov_vel;
 
-image_alpha += -0.05
+image_alpha -= 0.01;
 
 if (image_alpha<=0)
 {
