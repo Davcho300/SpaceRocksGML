@@ -1,1 +1,4 @@
-font_add("8_bit_1_6",24,true,false,32,128)
+draw_set_font(fnt_text);
+
+score = 0;
+lives = 3;
